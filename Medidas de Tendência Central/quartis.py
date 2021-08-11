@@ -1,4 +1,4 @@
-arquivo = open("dados_2.txt", "r")
+arquivo = open("dados_calculo.txt", "r")
 dados = []
 
 for linha in arquivo:
